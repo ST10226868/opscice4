@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854059013962",
+    "project_id": "opsc7312icetask4",
+    "storage_bucket": "opsc7312icetask4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854059013962:android:a529f37f6382df958bd3b3",
+        "android_client_info": {
+          "package_name": "com.example.opscice4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kh9KrjBw94P2aicfuRtON2uxu-4BiW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
